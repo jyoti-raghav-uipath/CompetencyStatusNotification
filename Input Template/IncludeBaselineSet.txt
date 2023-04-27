@@ -1,0 +1,50 @@
+<html>
+<head>
+<style>
+table, th, td {
+  border: 1px solid black;
+}
+</style>
+</head>
+<body>
+
+<table>
+  <tr>
+    <td>Employee Name </td>
+    <td>empName </td>
+  </tr>
+    <tr>
+    <td>Employee Email ID </td>
+    <td>empID </td>
+  </tr>   
+  <tr>
+    <td>Core </td>
+    <td>core </td>
+  </tr> 
+  <tr>
+    <td>Citizen Developer </td>
+    <td>citDev </td>
+  </tr> 
+  <tr>
+    <td>Attended </td>
+    <td>attended </td>
+  </tr>  
+  <tr>
+    <td>AIC DU </td>
+    <td>aic_DU </td>
+  </tr>
+  <tr>
+    <td>Discovery </td>
+    <td>discovery </td>
+  </tr>
+  <tr>
+    <td>Test Suite </td>
+    <td>testSuite </td>
+  </tr>
+  <tr>
+    <td>Manage Infra </td>
+    <td>manageInfra </td>
+  </tr>
+
+  
+ </table>
